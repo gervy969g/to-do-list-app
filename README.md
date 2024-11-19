@@ -8,8 +8,4 @@ This is a simple To-Do List application built with Python, Tkinter for the GUI, 
 - View all tasks.
 - Clear the task list.
 
-## Installation
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/to-do-list.git
